@@ -1,0 +1,21 @@
+body {
+    font-family: sans-serif;
+}
+
+.hero {
+    background-color: #f0f0f0;
+    padding: 50px 0;
+    text-align: center;
+}
+
+.about {
+    padding: 50px 0;
+}
+
+.projects {
+    padding: 50px 0;
+}
+
+.card {
+    margin-bottom: 20px;
+}
